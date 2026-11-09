@@ -3,7 +3,7 @@
 **Where and why are deliveries late, and what does it cost in customer satisfaction?**
 A one-page Power BI report on 96,203 delivered orders from the Olist Brazilian e-commerce marketplace, January 2017 to August 2018.
 
-**See the report:** [PDF export](Olist_Operations.pdf) | [2-minute video walkthrough](ADD-YOUR-VIDEO-LINK)
+**See the report:** [PDF export](Olist_Operations.pdf) |
 
 ## Key findings
 
